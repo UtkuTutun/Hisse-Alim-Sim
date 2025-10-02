@@ -1,0 +1,2 @@
+# Hisse Alım Simulator
+yakında
