@@ -1,0 +1,7 @@
+{
+  "presences": [
+    { "name": "{guilds} sunucuya ekli.", "type": "Custom" },
+    { "name": "Use /borsa to view charts", "type": "Custom" }
+  ],
+  "presenceIntervalMs": 10000
+}
