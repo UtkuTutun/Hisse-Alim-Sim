@@ -1,3 +1,9 @@
+node_modules/
+dist/
+data/
+.env
+*.log
+npm-debug.log*
 # Build and Release Folders
 bin-debug/
 bin-release/
